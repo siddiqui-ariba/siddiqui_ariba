@@ -1,4 +1,4 @@
-# siddiqui_ariba
+# Siddiqui_Ariba
 
 # 💫 About Me:
 I'm an aspiring Data Analyst.<br>I enjoy cleaning data and finding patterns in it.<br>I work with SQL, Python, and Excel.<br>I build dashboards that are easy to understand.<br>I'm currently working on new projects.
